@@ -1,0 +1,82 @@
+{
+  "education": [
+    {
+      "title": "Fullstack.NET-utvecklare",
+      "school": "Chas Academy",
+      "description": [
+        "Utveckling av backend- och fullstack lösningar med C# och .NET",
+        "Bygga och anropa API:er",
+        "Frontendutveckling med HTML, CSS och JavaScript",
+        "Databashantering med SQL och ORM",
+        "Agilt arbete enligt Scrum och Kanban",
+        "Grundläggande kunskaper inom molntjänster, säkerhet och AI",
+        "Praktisk tillämpning genom projekt, LIA och examensarbete"
+      ]
+    },
+    {
+      "title": "Fordon och Transport",
+      "school": "Yrkesplugget",
+      "description": [
+        "Grundläggande gymnasieutbildning",
+        "Teoretiska och praktiska kunskaper för lastbilsyrket",
+        "Snabb problemlösning vid oförutsedda situationer",
+        "Enklare reparationer"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Lastbilschaufför",
+      "company": "Lantz Järn och Metall",
+      "description": [
+        "Transport av skrot med hjälp av kranbil/lastväxlare",
+        "Kranbilskörning med fokus på säkerhet för minimera risker",
+        "Snabb problemlösning vid oförutsedda situationer",
+        "Enklare reparationer"
+      ]
+    },
+    {
+      "role": "Ta-plansritare",
+      "company": "ATA Hill and Smith",
+      "description": [
+        "Planerade och ritade trafikanordningsplaner i AutoCAD och AutoSketch",
+        "Arbetade mot myndighetskrav, lagar och tekniska regelverk",
+        "Administrativa uppgifter såsom offerter, fakturering och kundkontakt"
+      ]
+    },
+    {
+      "role": "Kranbilschaufför",
+      "company": "Kronman Mattson Transport",
+      "description": [
+        "Transport av hushållsavfall",
+        "Arbetade effektivt under press och högt tempo"
+      ]
+    },
+    {
+      "role": "Trafik serviceman",
+      "company": "ATA Hill and Smith",
+      "description": [
+        "Etablering och avetablering av vägavstängningar",
+        "Arbetade i team med höga krav på samordning och säkerhet",
+        "Systemvana genom arbete i Jeeves",
+        "Ansvarade tillsammans med två kollegor för att etablera och starta upp en ny depå i Göteborg"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "Trans- och Tjejjou",
+      "organisation": "Stjärnjouren",
+      "description": [
+        "Bemannade en stödchatt där jag lyssnade aktivt och gav tryggt stöd i samtal",
+        "Bidrog till att skapa en trygg, respektfull och icke dömande miljö för de som sökte stöd",
+        "Utvecklade förmåga att kommunicera empatiskt och hantera känsliga samtal med ansvar och lugn"
+      ]
+    }
+  ],
+  "languages": [
+    "Finska",
+    "Svenska",
+    "Engelska"
+  ]
+}
