@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Labb_2_Dynamisk_Hemsida/'
+  base: '/labb-2-dynamisk-hemsida/'
 })
